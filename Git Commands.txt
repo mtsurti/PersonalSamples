@@ -10,4 +10,4 @@ git log
 git log --online
 git commit -a -m <Message>
 git diff
-git diff -cached
+git diff --cached
