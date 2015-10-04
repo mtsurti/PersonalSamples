@@ -1,0 +1,13 @@
+git init <Project>
+git config --global user.name <Author name>
+git config --global user.email <Email>
+git add .
+git rm --cached <Path/File>
+git status
+git status -s
+git commit -m <Message>
+git log
+git log --online
+git commit -a -m <Message>
+git diff
+git diff -cached
